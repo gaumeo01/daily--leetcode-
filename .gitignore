@@ -1,0 +1,18 @@
+# C++ build files
+*.out
+*.o
+*.obj
+*.exe
+*.log
+
+# Backup & temp files
+*.swp
+*.swo
+*~
+*.bak
+
+# Mac system files
+.DS_Store
+
+# VSCode
+.vscode/
